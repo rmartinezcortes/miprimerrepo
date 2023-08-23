@@ -5,3 +5,7 @@ h2{
     color: violet;
     text-decoration: underline;
 }
+header{
+    height: 120px;
+    background-color: blue;
+}
